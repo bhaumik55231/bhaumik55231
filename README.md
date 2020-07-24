@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Bhaumik Patel Github Stats](https://github-readme-stats.vercel.app/api?username=bhaumik55231&show_icons=true&hide=stars)
+![Bhaumik Patel Github Stats](https://github.com/bhaumik55231/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaumik55231)](https://github.com/bhaumik55231/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaumik55231)](https://github.com/bhaumik55231/)
 
 <p align="left"> 
   Visitor count<br>
