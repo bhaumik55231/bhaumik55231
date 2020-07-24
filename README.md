@@ -1,7 +1,14 @@
 ### Hi there 👋
 
 ![Bhaumik Patel Github Stats](https://github-readme-stats.vercel.app/api?username=bhaumik55231&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
+
+<p align="left"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/bhaumik55231/count.svg" />
+</p>
+
 <!--
+
 **bhaumik55231/bhaumik55231** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
