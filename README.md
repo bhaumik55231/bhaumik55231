@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[![Bhaumik Patel Github Stats](https://github-readme-stats.vercel.app/api?username=bhaumik55231&show_icons=true&hide=stars)](https://github.com/bhaumik55231/)
+[![Bhaumik Patel Github Stats](https://github-readme-stats.vercel.app/api?username=bhaumik55231&show_icons=true)](https://github.com/bhaumik55231/)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaumik55231)](https://github.com/bhaumik55231/)
 
