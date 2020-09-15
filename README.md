@@ -6,7 +6,7 @@
 
 <p align="left"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/bhaumik55231/count.svg" />
+  <img src="https://github.com/bhaumik55231/" />
 </p>
 
 <!--
