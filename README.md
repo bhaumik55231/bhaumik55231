@@ -2,8 +2,6 @@
 
 [![Bhaumik Patel Github Stats](https://github-readme-stats.vercel.app/api?username=bhaumik55231&show_icons=true)](https://github.com/bhaumik55231/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bhaumik55231)](https://github.com/bhaumik55231/)
-
 <p align="left"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/bhaumik55231/count.svg" />
